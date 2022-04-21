@@ -1,0 +1,6 @@
+Thirty-one teams apply to enter a competition.
+The organisers agree to split the teams into two divisions,
+where each team plays each other team in their division once only and no team in the other division.
+There are 45 more games played in the larger division than in the smaller one.
+
+How many teams are in the smaller division?
